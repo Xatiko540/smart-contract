@@ -63,6 +63,3 @@
     - [BNB Smart Chain (BSC, BEP20)](https://bscscan.com/address/0xee8b3cb26a14c7c74a6786e08df0b4b6582e9d65#writeContract)
     - [Polygon (MATIC)](https://polygonscan.com/address/0xee8b3cb26a14c7c74a6786e08df0b4b6582e9d65#writeContract)
     
-# Контакты
-- [Telegram](https://t.me/Vladimir_Gav)
-- [YouTube](https://www.youtube.com/@vladimirgav)
