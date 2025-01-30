@@ -21,7 +21,7 @@
 - Как добавить первую ликвидность токена в PancakeSwap v2 [YouTube](https://youtu.be/l0KniFJ2B3g)
 
 ## Dex инструменты
-- Мое Dex приложение на GitHub  [VladimirGav dApp Tools](https://vladimirgav.github.io/)
+
 - Dex инструменты для анализа и поиска токенов в DexView [YouTube](https://youtu.be/pNisAFWql0U)
 - Графики, торги, поиск и анализ токенов в DexTools [YouTube](https://youtu.be/IAxDI-gqTgs)
 
